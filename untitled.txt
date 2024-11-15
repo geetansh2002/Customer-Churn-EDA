@@ -1,0 +1,18 @@
+EDA Report:
+The customer churn analysis examined a dataset of 7,043 customers, revealing that 26.54% (1,869 customers) had churned. This high churn rate highlights areas needing attention to improve retention. Key findings and recommendations are summarized below:
+
+### Key Findings:
+1. **Senior Citizens:** Higher churn rates among senior citizens suggest a need to address challenges unique to this demographic.
+2. **Contract Type:** Customers on monthly contracts churn more frequently, indicating that longer-term agreements may promote retention.
+3. **Internet Service:** Fiber optic users exhibit higher churn, pointing to potential concerns about service quality or pricing.
+4. **Additional Services:** Customers without add-on services (e.g., online security, backup, technical support) are more likely to churn, suggesting these services could improve retention.
+5. **Payment Method:** The electronic check payment method correlates with the highest churn, possibly due to its ease of cancellation or dissatisfaction with the process.
+
+### Recommendations:
+- **Senior Citizens:** Conduct qualitative research to understand and address their concerns.
+- **Contracts:** Incentivize longer-term agreements through discounts or added benefits.
+- **Internet Services:** Evaluate and resolve issues related to fiber optic quality or pricing.
+- **Add-On Services:** Promote the value of optional services to customers.
+- **Payment Methods:** Optimize the electronic check process or explore alternatives to improve satisfaction.
+
+By focusing on these areas, the organization can better retain customers and enhance its overall performance.
